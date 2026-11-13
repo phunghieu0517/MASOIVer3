@@ -1,0 +1,14 @@
+{
+  "name": "ma-soi-online-30-nguoi",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Ma Sói Online 30 người, hoạt cảnh SVG 4 giai đoạn, lá bài CSS 3D, lượt kỹ năng theo thứ tự, không phụ thuộc thư viện ngoài.",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
